@@ -276,8 +276,6 @@ class App extends Component {
               </Paper>
             </Grid>
           ))}
-
-          <Grid item xs={3} />
         </Grid>
         <Paper className={classes.paper}>
           <TextField
